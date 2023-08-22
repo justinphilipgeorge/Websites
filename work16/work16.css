@@ -1,0 +1,52 @@
+.a{
+    border-radius:5%;
+  
+    
+}
+.b{
+   font-family:'Kaushan Script', cursive;
+    color: rgb(246, 120, 31);
+    font-size: 30px;
+    font-weight: bolder;
+}
+.c{
+    color: black;
+    font-weight:700;
+}
+.one{
+    border-radius:2%;
+}
+.two{
+    color: rgba(131, 131, 131, 0.835);
+    font-size: small;
+}
+.d{
+    color: aliceblue;
+    background-color: rgb(5, 92, 200);
+    border-radius: 25%;
+    margin-top: 20px;
+    border-style: none;
+    
+}
+.d:hover{
+    color: rgb(241, 116, 28);    
+}
+.three{
+    border-radius:2%;
+    height:500px;
+    
+}
+.four{
+    background-image:url("images/bg2.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+  background-size:1800px;
+  width: 5000px;
+
+}
+.c1 {
+    position: relative;
+    text-align: left;
+    color: white;
+    }
+

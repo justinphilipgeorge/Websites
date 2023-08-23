@@ -1,13 +1,33 @@
+.d1{
+    background-color: rgb(0, 136, 255);
+    border-radius:  0px 0px 15px 0px;
+    filter: invert(100%); 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
 .a{
     border-radius:5%;
-  
-    
+}
+.j a{
+    font-size: 70px;
+    font-family: 'Kaushan Script', cursive;
 }
 .b{
    font-family:'Kaushan Script', cursive;
     color: rgb(246, 120, 31);
     font-size: 30px;
     font-weight: bolder;
+}
+.i{
+    color: aliceblue;
+    background-color: rgb(5, 92, 200);
+    border-radius: 25%;
+    margin-top: 7px;
+    border-style: none;
+}
+.i:hover{
+    color: rgb(241, 116, 28); 
 }
 .c{
     color: black;
@@ -36,16 +56,16 @@
     height:500px;
     
 }
-.four{
+.fourimg{
     background-image:url("images/bg2.jpg");
+    background-size:cover;
     background-repeat: no-repeat;
-    height: 500px;
-  background-size:1800px;
-  width: 5000px;
-
+    border-radius:  35px 0px 0px 0px;
+    margin-top: 80px;
 }
+
 .e{
-     font-family: 'Kaushan Script', cursive;
+    font-family: 'Kaushan Script', cursive;
     color: rgb(246, 120, 31);
     font-size: 50px;
     font-weight: bolder;
@@ -53,11 +73,10 @@
     margin-top: 50px;
     
 }
-div.f1{
+.f1{
     color: aliceblue;
     font-size:large;
     margin-bottom: 200px;
-
     margin-left: 200px;
 }
 .f2{
@@ -68,6 +87,9 @@ div.f1{
     margin-left: 200px;
    
 }
+.a1 :hover{
+    color: orange;
+}
 .f6{
     font-weight: bold;
     font-size: 25px;
@@ -75,11 +97,50 @@ div.f1{
     padding-bottom: 30px;
 
     }
-    .f7 a{
+.f7 a{
         color: black;
     }
-    .f8{
-        width: 25px;
+.f8 img{
+    width: 100%;
+    border-radius: 15px;
+    margin-bottom: 20px;
     }
+.dd{
+        border-bottom: solid rgb(48, 48, 48);
+    }
+.f9{
+    background-color:rgb(39, 39, 39);
+    color: rgba(172, 172, 172, 0.968);
+    }
+.f99{
+    font-size: 40px;
+    font-family: 'Kaushan Script', cursive;
+}
+.f10{
+    background-color:rgb(39, 39, 39);
+    border-top: solid rgb(48, 48, 48);
+    color: rgb(172, 172, 172);
+    text-align: center;
+}
+.h{
+    color: white;
+}
+.g:hover{
+    color:rgb(255, 119, 0)
+}
+.jj{
+    background-color:rgb(39, 39, 39);
+    color: rgb(172, 172, 172);
+}
+.align form{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(20, 11, 1);
+    background-color: rgba(240, 248, 255, 0.598);
+    border-radius: 15px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
 
 

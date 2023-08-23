@@ -44,9 +44,42 @@
   width: 5000px;
 
 }
-.c1 {
-    position: relative;
-    text-align: left;
-    color: white;
+.e{
+     font-family: 'Kaushan Script', cursive;
+    color: rgb(246, 120, 31);
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+div.f1{
+    color: aliceblue;
+    font-size:large;
+    margin-bottom: 200px;
+
+    margin-left: 200px;
+}
+.f2{
+    font-family: 'Kaushan Script', cursive;
+    color: rgb(246, 120, 31);
+    font-size: 50px;
+    font-weight: bolder;
+    margin-left: 200px;
+   
+}
+.f6{
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
     }
+    .f7 a{
+        color: black;
+    }
+    .f8{
+        width: 25px;
+    }
+
 
